@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Blue Modern Technology LinkedIn Banner](https://github.com/vannesegurablas/vannesegurablas/assets/162353780/7d1da31b-e536-43e7-ae5f-50f341a3c645)
 
 - 🔭 I'm currently working on being a great data analyst
 - 🌱 I'm currently learning Python, SQL, Machine Learning, Tableu, Power BI
