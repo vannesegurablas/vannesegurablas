@@ -8,4 +8,3 @@
 - 💬 Ask me about brazilian culture
 - 📫 How to reach me: https://www.linkedin.com/in/vanessa-avila-segura/
 - ⚡ Fun fact: I love all sports but I really don't like running
--->
