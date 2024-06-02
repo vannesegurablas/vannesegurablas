@@ -6,13 +6,7 @@
 
 
 
-- 🔭 I'm currently working on being a great data analyst
-- 🌱 I'm currently learning Python, SQL, Machine Learning, Tableu, Power BI
-- 👯 I'm looking to collaborate on incredible projects for large companies about data analysis.
-- 🤔 I'm looking for help to improve my skills, every day is a great day to learn
-- 💬 Ask me about brazilian culture
-- 📫 How to reach me: https://www.linkedin.com/in/vanessa-avila-segura/
-- ⚡ Fun fact: I love all sports but I really don't like running
+🔭 Currently, I'm dedicated to honing my skills as a proficient data analyst. 🌱 My ongoing learning journey includes Python, SQL, Machine Learning, Tableau, and Power BI. 👯 I'm eagerly seeking collaborations on impactful projects within the realm of data analysis, particularly with leading enterprises. 🤔 Continuously striving for skill enhancement, I firmly believe every day offers an opportunity for growth. 💬 Feel free to engage me in discussions about Brazilian culture. 📫 You can reach out to me via LinkedIn. ⚡ Fun fact: While I have a passion for all sports, I confess running isn't exactly my cup of tea.
  </br> 
 
 
