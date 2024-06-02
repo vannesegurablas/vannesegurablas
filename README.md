@@ -15,30 +15,6 @@
 </p>
 
 
-<style>
-  .counter {
-    border: 2px solid #2196F3;
-    border-radius: 8px;
-    padding: 10px;
-    background-color: #fff;
-    display: inline-block;
-    animation: pulse 2s infinite;
-  }
-
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.05);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
-
-<p align="center">
-  <img class="counter" src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
-</p>
-
+| ![Contador de visitas](https://profile-counter.glitch.me/vannesegurablas/count.svg) |
+|:--:|
+| *Contador de visitas* |
