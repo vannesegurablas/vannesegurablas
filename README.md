@@ -16,12 +16,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-
-![Blue Modern Technology LinkedIn Banner](https://github.com/vannesegurablas/vannesegurablas/assets/162353780/7d1da31b-e536-43e7-ae5f-50f341a3c645)
-
-
-<p><strong> 👩🏻‍💻 About me</strong></p>
-
 🔭 Chemical engineer with a master's degree in environmental engineering, my focus lies predominantly in data analysis. I'm deeply passionate about delving into the dynamics behind phenomena, pinpointing influential factors, and proposing predictive solutions. Always eager to learn and stay updated, I'm currently enrolled in a technology bootcamp at TripleTen. During this program, I implemented a simulation model in Python to forecast game success, leveraging historical sales data, user ratings, market trends, and game features. I managed data and implemented databases to identify potentially successful games across different regions using Python and SQL, and crafted reports and dashboards with game profit analysis by region using Tableau. At Grand Hanny’s, I analyzed sales from 2019 to 2024 using DAX to ascertain trends and growth patterns within the company, identifying top-selling products and key sales points. Additionally, I developed dashboards integrating revenue, expenses, KPIs, and sales analysis using Power BI.
 
 📈 My focus is on delivering tangible results through data analysis, leveraging my expertise in Tableau and Power BI for visualization and analysis, thereby assisting companies in making informed, strategic decisions.
