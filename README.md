@@ -16,7 +16,7 @@
  </br> 
 
 
-<p align="center">*Profile Views*</p>
+<p align="center">Profile Views</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
 </p>
