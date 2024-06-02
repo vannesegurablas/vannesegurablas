@@ -1,4 +1,5 @@
-<p align="center">< Hi there 👋</strong></p>
+<p align="center"><strong>Hi there 👋</strong></p>
+
 
 ![Blue Modern Technology LinkedIn Banner](https://github.com/vannesegurablas/vannesegurablas/assets/162353780/7d1da31b-e536-43e7-ae5f-50f341a3c645)
 
