@@ -37,9 +37,10 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tableau,powerbi,git,discord,github,html,mysql,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,tableau,power%20bi,git,discord,github,html,mysql,vscode" />
   </a>
 </p>
+
 
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
