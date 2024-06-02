@@ -9,7 +9,7 @@
 - 💬 Ask me about brazilian culture
 - 📫 How to reach me: https://www.linkedin.com/in/vanessa-avila-segura/
 - ⚡ Fun fact: I love all sports but I really don't like running
-
+ </br> 
 <p align="center">
   <img align="center" src="https://profile.counter.glitch.me/vannesegurablas/count.svg" />
 </p>
