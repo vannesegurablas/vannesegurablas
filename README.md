@@ -4,8 +4,9 @@
 
 |   |
 |:--:|
-| <p style="text-align: center;">*Profile Views*</p> |
-| <p style="text-align: center;"><img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Profile Views" /></p> |
+| <p align="center">*Profile Views*</p> |
+| <p align="center"><img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Profile Views" /></p> |
+
 
 
 - 🔭 I'm currently working on being a great data analyst
