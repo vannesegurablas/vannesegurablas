@@ -11,6 +11,6 @@
 - ⚡ Fun fact: I love all sports but I really don't like running
  </br> 
 <p align="center">
-  <img align="center" src="https://profile.counter.glitch.me/vannesegurablas/count.svg" />
+  <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
 </p>
 
