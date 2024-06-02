@@ -14,19 +14,31 @@
   <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
 </p>
 
+
 <style>
   .counter {
-    border: 2px solid #4CAF50;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-    display: inline-block;
+    border: 2px solid #2196F3;
+    border-radius: 8px;
     padding: 10px;
-    background-color: #f9f9f9;
+    background-color: #fff;
+    display: inline-block;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
   }
 </style>
 
 <p align="center">
   <img class="counter" src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
 </p>
-
 
