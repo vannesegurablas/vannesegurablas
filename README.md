@@ -59,12 +59,12 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vannesegurablas&show_icons=true&theme=dark&locale=en&layout=compact" alt="vannesegurablas" /></p>
-<br>
 
- <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=vannesegurablas&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannesegurablas&theme=highcontrast&layout=compact&langs_count=10" /></span>
+</div>
+
 
  </br> 
 
