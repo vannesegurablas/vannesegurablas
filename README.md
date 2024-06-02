@@ -37,7 +37,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tableau,power%20bi,git,discord,github,html,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql,vscode" />
   </a>
 </p>
 
