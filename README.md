@@ -8,9 +8,13 @@
 
 </a>
 
+<br>
+
+
 
 	
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 
 
 ![Blue Modern Technology LinkedIn Banner](https://github.com/vannesegurablas/vannesegurablas/assets/162353780/7d1da31b-e536-43e7-ae5f-50f341a3c645)
