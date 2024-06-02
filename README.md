@@ -15,7 +15,8 @@
 </p>
 
 
-| ![Contador de visitas](https://profile-counter.glitch.me/vannesegurablas/count.svg) |
+| ![Profile Views](https://profile-counter.glitch.me/vannesegurablas/count.svg) |
 |:--:|
-| *Contador de visitas* |
+| *Profile Views* |
+
 
