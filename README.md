@@ -70,8 +70,11 @@
   </span>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <br>
-<p align="center"><strong>Profile Views</strong></p>
+<h3><strong>Profile Views</strong></h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" style="display: block; margin: 0 auto;" />
 </p>
