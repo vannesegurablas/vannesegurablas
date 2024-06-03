@@ -65,6 +65,33 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannesegurablas&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 
+<h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<p align="center">
+  <a href="https://github.com/vannesegurablas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Vanessa+Avila+Segura..Data+Analyst;++;SQL-Tableu+Power+BI,;Data+Analytics+Student,;Curious+Mind,;Continuous+Learner">
+  </a>
+</p>
+
+<p align="center"><strong>Profile Views</strong></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
+</p>
+
+<div align="center">
+  <span>
+    <img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=vannesegurablas&theme=highcontrast&show_icons=true" />
+  </span>
+  <span>
+    <img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannesegurablas&theme=highcontrast&layout=compact&langs_count=10" />
+  </span>
+</div>
+
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 
  </br> 
 
