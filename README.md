@@ -72,12 +72,5 @@
 <br>
 <p align="center"><strong>Profile Views</strong></p>
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vannesegurablas" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=vannesegurablas&color=brightgreen" alt="Contador de visitas" />
 </p>
-
-
-
-
-
-
-
