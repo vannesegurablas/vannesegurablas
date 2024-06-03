@@ -71,8 +71,9 @@
 
 <p align="center"><strong>Profile Views</strong></p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=vannesegurablas" alt="Contador de visitas" />
 </p>
+
 
 
 
