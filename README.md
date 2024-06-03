@@ -55,6 +55,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <hr width="36%" >
 
+
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
@@ -72,5 +73,5 @@
 <br>
 <p align="center"><strong>Profile Views</strong></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vannesegurablas&color=brightgreen" alt="Contador de visitas" />
+  <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" />
 </p>
