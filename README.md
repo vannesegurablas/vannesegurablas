@@ -20,7 +20,7 @@
 🎯 My goals include continuously enhancing my data analysis skills and expanding my knowledge of advanced tools and techniques in the field. I aspire to make meaningful contributions to projects that drive innovation and efficiency within companies, utilizing data analysis to provide strategic, high-impact solutions. Committed to ongoing professional development, I aim to reach new levels of excellence in my career as a Data Analyst.
 
 📧 Contactame: vanessaavilasegura@hotmail.com
-🔗Visita mi Github: https://github.com/vannesegurablas
+
 
 <br><br>
 
