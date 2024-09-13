@@ -7,12 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Vanessa+Avila+Segura+++---->+++Data+Analyst;++;SQL-+Tableu-+Power+BI-+Looker+Studio;Data+Analytics+Student,;Curious+Mind,;Continuous+Learner">
 </a>
 
-<br>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-##<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="About me"> <strong>About me</strong>
-<br>	
+<br><br>
 
 
 🔭 Chemical engineer with a master's degree in environmental engineering, my focus lies predominantly in data analysis. I'm deeply passionate about delving into the dynamics behind phenomena, pinpointing influential factors, and proposing predictive solutions. Always eager to learn and stay updated, I'm currently enrolled in a technology bootcamp at TripleTen. During this program, I implemented a simulation model in Python to forecast game success, leveraging historical sales data, user ratings, market trends, and game features. I managed data and implemented databases to identify potentially successful games across different regions using Python and SQL, and crafted reports and dashboards with game profit analysis by region using Tableau. At Grand Hanny’s, I analyzed sales from 2019 to 2024 using DAX to ascertain trends and growth patterns within the company, identifying top-selling products and key sales points. Additionally, I developed dashboards integrating revenue, expenses, KPIs, and sales analysis using Power BI.
