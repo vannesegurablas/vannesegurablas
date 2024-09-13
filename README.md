@@ -9,7 +9,12 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 <br><br>
+<br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="25"><b> About me</b>
+<br>
 
 🔭 Chemical engineer with a master's degree in environmental engineering, my focus lies predominantly in data analysis. I'm deeply passionate about delving into the dynamics behind phenomena, pinpointing influential factors, and proposing predictive solutions. Always eager to learn and stay updated, I'm currently enrolled in a technology bootcamp at TripleTen. During this program, I implemented a simulation model in Python to forecast game success, leveraging historical sales data, user ratings, market trends, and game features. I managed data and implemented databases to identify potentially successful games across different regions using Python and SQL, and crafted reports and dashboards with game profit analysis by region using Tableau. At Grand Hanny’s, I analyzed sales from 2019 to 2024 using DAX to ascertain trends and growth patterns within the company, identifying top-selling products and key sales points. Additionally, I developed dashboards integrating revenue, expenses, KPIs, and sales analysis using Power BI.
 
