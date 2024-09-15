@@ -15,13 +15,17 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="25"><b> About me</b>
 <br>
 
-🔭 Chemical engineer with a master's degree in environmental engineering, my focus lies predominantly in data analysis. I'm deeply passionate about delving into the dynamics behind phenomena, pinpointing influential factors, and proposing predictive solutions. Always eager to learn and stay updated, I'm currently enrolled in a technology bootcamp at TripleTen. During this program, I implemented a simulation model in Python to forecast game success, leveraging historical sales data, user ratings, market trends, and game features. I managed data and implemented databases to identify potentially successful games across different regions using Python and SQL, and crafted reports and dashboards with game profit analysis by region using Tableau. At Grand Hanny’s, I analyzed sales from 2019 to 2024 using DAX to ascertain trends and growth patterns within the company, identifying top-selling products and key sales points. Additionally, I developed dashboards integrating revenue, expenses, KPIs, and sales analysis using Power BI.
+🔭 As a Chemical Engineer with a master's degree in Environmental Engineering, my expertise centers on data analysis within environmental contexts. I am passionate about exploring the intricacies behind environmental phenomena, identifying key influencing factors, and developing predictive solutions. My commitment to continuous learning is reflected in my current enrollment in a technology bootcamp at TripleTen, where I am honing my skills further.
+
+During the bootcamp, I created a simulation model in Python to forecast game success by analyzing historical sales data, user ratings, market trends, and game features. This experience has enhanced my proficiency in managing data and constructing databases to identify successful games across various regions. I utilized Python and SQL for data management and developed comprehensive reports and dashboards using Tableau to analyze game profitability by region.
+
+In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX to uncover trends and growth patterns, pinpointing top-selling products and critical sales metrics. Additionally, I designed and implemented dashboards integrating revenue, expenses, KPIs, and sales analysis using Power BI, furthering my expertise in business intelligence and data-driven decision-making.
 
 📈 My focus is on delivering tangible results through data analysis, leveraging my expertise in Tableau and Power BI for visualization and analysis, thereby assisting companies in making informed, strategic decisions.
 
 🎯 My goals include continuously enhancing my data analysis skills and expanding my knowledge of advanced tools and techniques in the field. I aspire to make meaningful contributions to projects that drive innovation and efficiency within companies, utilizing data analysis to provide strategic, high-impact solutions. Committed to ongoing professional development, I aim to reach new levels of excellence in my career as a Data Analyst.
 
-📧 Contactame: vanessaavilasegura@hotmail.com
+📧 Contact me: vanessaavilasegura@hotmail.com
 
 
 <br><br>
