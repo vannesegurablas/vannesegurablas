@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a href="https://github.com/vannesegurablas">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=I'm+++→+++Vanessa+Avila+Segura;Data+Analyst,MBA+Environmental+Engineering+Chemical+Engineering;SQL-+Tableu-+Power+BI-+Looker+Studio-+Python;Curious+Mind,Continuous+Learner,Engagement&speed=30">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=I'm+++→+++Vanessa+Avila+Segura;Data+Analyst,MBA+EnvironmentalEngineering,Chemical+Engineering;SQL-+Tableu-+Power+BI-+Looker+Studio-+Python;Curious+Mind,Continuous+Learner,Engagement&speed=30">
   
 </a>
 
