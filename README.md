@@ -1,15 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanessa Avila Segura - Portfolio</title>
+    <style>
+        .youtube-logo {
+            width: 20px;  /* Tamaño más pequeño del logo */
+            height: auto;
+            vertical-align: middle;
+        }
 
+        h1 {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .youtube-container {
+            text-align: left;
+        }
+
+        .skills-icons img {
+            width: 45px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
 
 <h1 align="center"><b>Hi there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <a href="https://github.com/vannesegurablas">
    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&height=100&lines=I'm+++→+++Vanessa+Avila+Segura;Data+Analyst,MBA+Environmental+Engineering,Chemical+Engineering;Environmental+Data,Data+Bank,Business+Intelligence;SQL-+Tableu-+Power+BI-+Looker+Studio-+Python;Curious+Mind,Continuous+Learner,Engagement&speed=40">
-  
 </a>
 
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="25"><b> About me</b>
@@ -27,64 +54,50 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
 
 📧 Contact me: vanessaavilasegura@hotmail.com
 
-
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
-
-- **Languages**:
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql,vscode" />
+    <img class="skills-icons" src="https://skillicons.dev/icons?i=python,git,discord,github,html,mysql,vscode" />
   </a>
 </p>
 
-
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
 <ul>
-
 <li>
   <a href="https://www.linkedin.com/in/vanessa-avila-segura/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-vanessa--avila--segura-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/linkedin-vanessa--avila--segura-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
   </a>
 </li>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</ul>
+
+<br><br>
 
 ## <b> Know more about me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
 
 <ul>
 <li>
-  <body>
-    <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
-        <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
-   </a>
+  <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
+  </a>
 </li>
-</body>
-<ul>
-   
+</ul>
+
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<br>
 
-   
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <div align="center">
   <span>
@@ -95,9 +108,13 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
   </span>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<br>
+<br><br>
+
 <h3><strong>Profile Views</strong></h3>
 <p align="center">
   <img src="https://profile-counter.glitch.me/vannesegurablas/count.svg" alt="Contador de visitas" style="display: block; margin: 0 auto;" />
 </p>
+
+</body>
+</html>
+
