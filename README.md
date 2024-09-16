@@ -69,13 +69,13 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
 
 <br><br>
 
-## <b> Know more about me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Know more about me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 
 <ul>
 <li>
   <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
-    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axondigital.mx%2Fnoticias%2Fyoutube-dejara-de-mostrar-cifras-exactas%2F&psig=AOvVaw0gi-GA3q5hCGd-Egv-XQVz&ust=1726531901854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDRjouYxogDFQAAAAAdAAAAABAE" alt="YouTube Logo">
+    <img class="youtube-logo" src="https://www.axondigital.mx/wp-content/uploads/2021/09/YOUTUBE-LOGO.png" alt="YouTube Logo">
   </a>
 </li>
 </ul>
