@@ -66,12 +66,10 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
 ## <b> Know more about me..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
   <body>
     <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
         <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
-        <span class="youtube-link">Watch this video on YouTube</span>
-    </a>
+   </a>
 </body>
 <ul>
    
