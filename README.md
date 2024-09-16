@@ -62,7 +62,7 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
   </a>
 </li>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<hr width="36%" >
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
