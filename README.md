@@ -75,13 +75,13 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
 <ul>
 <li>
   <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
-    Video en Español   <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Video en Español
   </a>
 </li>
 
 <li>
   <a class="youtube-container" href="https://www.youtube.com/watch?v=BZnXkQzf6qU" target="_blank">
-    Video en Portugués <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Video en Portugués
   </a>
 </li>
 </ul>
