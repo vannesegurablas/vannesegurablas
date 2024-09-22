@@ -74,14 +74,20 @@ In my role at Grand Hanny’s, I analyzed sales data from 2019 to 2024 using DAX
 
 <ul>
 <li>
-  <a class="youtube-container" href="https://www.youtube.com/watch?v=seudYCrkzsA" target="_blank">
-    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Video en Español
+  <a class="youtube-container" href="https://www.youtube.com/watch?v=nIc_6gbYs2c" target="_blank">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> English Video
+  </a>
+</li>
+   
+<li>
+  <a class="youtube-container" href="https://www.youtube.com/watch?v=_W9rMqofVKE" target="_blank">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Spanish Video
   </a>
 </li>
 
 <li>
-  <a class="youtube-container" href="https://www.youtube.com/watch?v=BZnXkQzf6qU" target="_blank">
-    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Video en Portugués
+  <a class="youtube-container" href="https://www.youtube.com/watch?v=r2cXhE2QiYI" target="_blank">
+    <img class="youtube-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="40"> Portugues video
   </a>
 </li>
 </ul>
